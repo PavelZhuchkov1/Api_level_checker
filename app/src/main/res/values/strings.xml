@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Api Level Checker</string>
+    <string name="button">Api level</string>
+</resources>
